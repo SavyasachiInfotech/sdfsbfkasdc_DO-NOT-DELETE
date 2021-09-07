@@ -1,0 +1,21 @@
+{
+    "isShow": true,
+    "homeScreen": {
+        "image": "",
+        "playStoreUrl": "",
+        "devPageUrl": "",
+        "moreApps": [
+            {
+                "title": "",
+                "url": "",
+                "thumbnail": ""
+            }
+        ]
+    },
+    "statusVideos": [
+        {
+            "videoUrl": "",
+            "isExternal": true
+        }
+    ]
+}
