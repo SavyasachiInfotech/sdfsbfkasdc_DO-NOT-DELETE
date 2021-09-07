@@ -1,7 +1,7 @@
 {
     "isShow": true,
     "homeData": {
-        "image": "",
+        "image": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/home-screen/image.jpeg",
         "playStoreUrl": "",
         "devPageUrl": "",
         "moreApps": [
@@ -14,8 +14,123 @@
     },
     "statusVideos": [
         {
-            "videoUrl": "",
-            "thumbnail": "",
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video1.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture1.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video2.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture2.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video3.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture3.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video4.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture4.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video5.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture5.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video6.mp4",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture6.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video7.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture7.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video8.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture8.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video9.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture9.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video10.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture10.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video11.mp4",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture11.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video12.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture12.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video13.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture13.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video14.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture14.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video15.mp4",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture15.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video16.mp4",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture16.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video17.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture17.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video18.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture18.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video19.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture19.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video20.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture20.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video21.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture21.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video22.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture22.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video23.webm",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture23.jpg",
+            "isExternal": true
+        },
+        {
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video24.mp4",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture24.jpg",
             "isExternal": true
         }
     ]
