@@ -1,6 +1,6 @@
 {
     "isShow": true,
-    "homeScreen": {
+    "homeData": {
         "image": "",
         "playStoreUrl": "",
         "devPageUrl": "",
@@ -8,13 +8,14 @@
             {
                 "title": "",
                 "url": "",
-                "thumbnail": ""
+                "appIcon": ""
             }
         ]
     },
     "statusVideos": [
         {
             "videoUrl": "",
+            "thumbnail": "",
             "isExternal": true
         }
     ]
