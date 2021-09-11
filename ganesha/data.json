@@ -133,5 +133,9 @@
             "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture24.jpg",
             "isExternal": true
         }
+    ],
+    "wallpapers" : [
+        "https://images.pexels.com/photos/2900315/pexels-photo-2900315.jpeg",
+        "https://images.pexels.com/photos/5150054/pexels-photo-5150054.jpeg"
     ]
 }
