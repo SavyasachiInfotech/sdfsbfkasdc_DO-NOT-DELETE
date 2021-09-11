@@ -1,141 +1,266 @@
 {
-    "isShow": true,
     "homeData": {
         "image": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/home-screen/image.jpeg",
-        "playStoreUrl": "",
-        "devPageUrl": "",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.status.lord_ganesha",
         "moreApps": [
             {
-                "title": "",
-                "url": "",
-                "appIcon": ""
+                "title": "Track an order",
+                "url": "https://play.google.com/store/apps/details?id=com.trackanorder.trackanorder",
+                "appIcon": "https://trackanorder.in/logo.b046d93ec4ddccedd714.png"
             }
         ]
     },
-    "statusVideos": [
+    "statusVideos": [],
+    "wallpapers": [
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video1.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture1.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 1",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-1.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-1.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video2.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture2.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 2",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-2.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-2.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video3.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture3.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 3",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-3.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-3.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video4.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture4.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 4",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-4.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-4.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video5.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture5.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 5",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-5.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-5.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video6.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture6.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 6",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-6.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-6.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video7.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture7.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 7",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-7.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-7.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video8.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture8.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 8",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-8.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-8.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video9.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture9.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 9",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-9.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-9.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video10.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture10.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 10",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-10.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-10.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video11.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture11.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 11",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-11.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-11.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video12.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture12.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 12",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-12.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-12.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video13.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture13.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 13",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-13.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-13.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video14.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture14.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 14",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-14.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-14.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video15.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture15.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 15",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-15.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-15.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video16.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture16.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 16",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-16.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-16.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video17.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture17.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 17",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-17.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-17.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video18.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture18.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 18",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-18.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-18.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video19.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture19.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 19",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-19.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-19.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video20.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture20.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 20",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-20.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-20.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video21.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture21.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 21",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-21.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-21.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video22.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture22.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 22",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-22.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-22.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video23.webm",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture23.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 23",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-23.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-23.jpg"
         },
         {
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/video24.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/thumbnails/VideoCapture24.jpg",
-            "isExternal": true
+            "fileName": "Ganesha Wallpaper 24",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-24.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-24.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 25",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-25.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-25.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 26",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-26.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-26.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 27",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-27.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-27.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 28",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-28.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-28.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 29",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-29.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-29.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 30",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-30.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-30.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 31",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-31.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-31.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 32",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-32.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-32.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 33",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-33.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-33.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 34",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-34.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-34.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 35",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-35.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-35.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 36",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-36.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-36.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 37",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-37.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-37.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 38",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-38.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-38.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 39",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-39.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-39.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 40",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-40.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-40.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 41",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-41.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-41.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 42",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-42.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-42.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 43",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-43.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-43.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 44",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-44.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-44.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 45",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-45.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-45.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 46",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-46.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-46.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 47",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-47.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-47.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 48",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-48.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-48.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 49",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-49.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-49.jpg"
+        },
+        {
+            "fileName": "Ganesha Wallpaper 50",
+            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/originals/Wallpaper-50.jpg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/wallpapers/thumbnails/Wallpaper-thumbnail-50.jpg"
         }
-    ],
-    "wallpapers" : [
-        "https://images.pexels.com/photos/2900315/pexels-photo-2900315.jpeg",
-        "https://images.pexels.com/photos/5150054/pexels-photo-5150054.jpeg"
     ]
 }
