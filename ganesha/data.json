@@ -1,6 +1,7 @@
 {
     "homeData": {
         "image": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/home-screen/image.jpeg",
+        "appTitle": "Ganesha App",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.status.lord_ganesha",
         "shareMessage": "Check this awesome app for Latest HD Ganesha Wallpaper and Video Statuses.\n\nhttps://play.google.com/store/apps/details?id=com.status.lord_ganesha",
         "moreApps": [
