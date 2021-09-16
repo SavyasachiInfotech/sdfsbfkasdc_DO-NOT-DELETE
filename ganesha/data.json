@@ -12,7 +12,13 @@
             }
         ]
     },
-    "statusVideos": [],
+    "statusVideos": [
+        {
+            "fileName": "Ganesha Wallpaper 1",
+            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/originals/Video-1.jpeg",
+            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/GaneshaStatus/videos/thumbnails/Video-thumbnail-1.mp4"
+        }
+    ],
     "wallpapers": [
         {
             "fileName": "Ganesha Wallpaper 1",
