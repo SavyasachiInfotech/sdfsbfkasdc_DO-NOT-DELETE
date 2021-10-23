@@ -2,8 +2,8 @@
     "homeData": {
         "image": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/home-screen/image.jpeg",
         "appTitle": "Diwali Wishes & Statuses",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.statusapp.diwali",
-        "shareMessage": "Check this awesome app for Latest HD Diwali Wallpaper and Video Statuses.\n\nhttps://play.google.com/store/apps/details?id=com.statusapp.diwali",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.status.diwali",
+        "shareMessage": "Check this awesome app for Latest HD Diwali Wallpaper and Video Statuses.\n\nhttps://play.google.com/store/apps/details?id=com.status.diwali",
         "moreApps": [
             {
                 "title": "Track an order",
