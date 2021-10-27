@@ -1,7 +1,7 @@
 {
     "homeData": {
-        "image": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/home-screen/image.jpeg",
-        "appTitle": "Diwali Wishes & Statuses",
+        "image": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/home-screen/image.jpg",
+        "appTitle": "Diwali Wishes & Statuses 2021",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.status.diwali",
         "shareMessage": "Check this awesome app for Latest HD Diwali Wallpaper and Video Statuses.\n\nhttps://play.google.com/store/apps/details?id=com.status.diwali",
         "moreApps": [
@@ -14,491 +14,160 @@
     },
     "statusVideos": [
         {
-            "fileName": "Diwali Status 1",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-1.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-1.jpg"
+            "fileName": "diwali-status-video-1",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(1).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(1).jpg"
         },
         {
-            "fileName": "Diwali Status 2",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-2.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-2.jpg"
+            "fileName": "diwali-status-video-2",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(2).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(2).jpg"
         },
         {
-            "fileName": "Diwali Status 3",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-3.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-3.jpg"
+            "fileName": "diwali-status-video-3",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(3).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(3).jpg"
         },
         {
-            "fileName": "Diwali Status 4",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-4.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-4.jpg"
+            "fileName": "diwali-status-video-4",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(4).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(4).jpg"
         },
         {
-            "fileName": "Diwali Status 5",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-5.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-5.jpg"
+            "fileName": "diwali-status-video-5",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(5).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(5).jpg"
         },
         {
-            "fileName": "Diwali Status 6",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-6.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-6.jpg"
+            "fileName": "diwali-status-video-6",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(6).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(6).jpg"
         },
         {
-            "fileName": "Diwali Status 7",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-7.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-7.jpg"
+            "fileName": "diwali-status-video-7",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(7).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(7).jpg"
         },
         {
-            "fileName": "Diwali Status 8",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-8.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-8.jpg"
+            "fileName": "diwali-status-video-8",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(8).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(8).jpg"
         },
         {
-            "fileName": "Diwali Status 9",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-9.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-9.jpg"
+            "fileName": "diwali-status-video-9",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(9).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(9).jpg"
         },
         {
-            "fileName": "Diwali Status 10",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-10.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-10.jpg"
+            "fileName": "diwali-status-video-10",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(10).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(10).jpg"
         },
         {
-            "fileName": "Diwali Status 11",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-11.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-11.jpg"
+            "fileName": "diwali-status-video-11",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(11).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(11).jpg"
         },
         {
-            "fileName": "Diwali Status 12",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-12.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-12.jpg"
+            "fileName": "diwali-status-video-12",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(12).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(12).jpg"
         },
         {
-            "fileName": "Diwali Status 13",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-13.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-13.jpg"
+            "fileName": "diwali-status-video-13",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(13).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(13).jpg"
         },
         {
-            "fileName": "Diwali Status 14",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-14.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-14.jpg"
+            "fileName": "diwali-status-video-14",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(14).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(14).jpg"
         },
         {
-            "fileName": "Diwali Status 15",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-15.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-15.jpg"
+            "fileName": "diwali-status-video-15",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(15).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(15).jpg"
         },
         {
-            "fileName": "Diwali Status 16",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-16.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-16.jpg"
+            "fileName": "diwali-status-video-16",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(16).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(16).jpg"
         },
         {
-            "fileName": "Diwali Status 17",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-17.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-17.jpg"
+            "fileName": "diwali-status-video-17",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(17).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(17).jpg"
         },
         {
-            "fileName": "Diwali Status 18",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-18.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-18.jpg"
+            "fileName": "diwali-status-video-18",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(18).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(18).jpg"
         },
         {
-            "fileName": "Diwali Status 19",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-19.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-19.jpg"
+            "fileName": "diwali-status-video-19",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(19).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(19).jpg"
         },
         {
-            "fileName": "Diwali Status 20",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-20.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-20.jpg"
+            "fileName": "diwali-status-video-20",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(20).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(20).jpg"
         },
         {
-            "fileName": "Diwali Status 21",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-21.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-21.jpg"
+            "fileName": "diwali-status-video-21",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(21).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(21).jpg"
         },
         {
-            "fileName": "Diwali Status 22",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-22.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-22.jpg"
+            "fileName": "diwali-status-video-22",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(22).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(22).jpg"
         },
         {
-            "fileName": "Diwali Status 23",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-23.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-23.jpg"
+            "fileName": "diwali-status-video-23",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(23).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(23).jpg"
         },
         {
-            "fileName": "Diwali Status 24",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-24.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-24.jpg"
+            "fileName": "diwali-status-video-24",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(24).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(24).jpg"
         },
         {
-            "fileName": "Diwali Status 25",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-25.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-25.jpg"
+            "fileName": "diwali-status-video-25",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(25).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(25).jpg"
         },
         {
-            "fileName": "Diwali Status 26",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-26.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-26.jpg"
+            "fileName": "diwali-status-video-26",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(26).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(26).jpg"
         },
         {
-            "fileName": "Diwali Status 27",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-27.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-27.jpg"
+            "fileName": "diwali-status-video-27",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(27).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(27).jpg"
         },
         {
-            "fileName": "Diwali Status 28",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-28.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-28.jpg"
+            "fileName": "diwali-status-video-28",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(28).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(28).jpg"
         },
         {
-            "fileName": "Diwali Status 29",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-29.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-29.jpg"
+            "fileName": "diwali-status-video-29",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(29).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(29).jpg"
         },
         {
-            "fileName": "Diwali Status 30",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-30.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-30.jpg"
+            "fileName": "diwali-status-video-30",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(30).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(30).jpg"
         },
         {
-            "fileName": "Diwali Status 31",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-31.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-31.jpg"
-        },
-        {
-            "fileName": "Diwali Status 32",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-32.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-32.jpg"
-        },
-        {
-            "fileName": "Diwali Status 33",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-33.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-33.jpg"
-        },
-        {
-            "fileName": "Diwali Status 34",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-34.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-34.jpg"
-        },
-        {
-            "fileName": "Diwali Status 35",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-35.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-35.jpg"
-        },
-        {
-            "fileName": "Diwali Status 36",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-36.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-36.jpg"
-        },
-        {
-            "fileName": "Diwali Status 37",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-37.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-37.jpg"
-        },
-        {
-            "fileName": "Diwali Status 38",
-            "videoUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/originals/Video-38.mp4",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/videos/thumbnails/Video-thumbnail-38.jpg"
+            "fileName": "diwali-status-video-31",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/originals/original+(31).mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(31).jpg"
         }
     ],
-    "wallpapers": [
-        {
-            "fileName": "Diwali Wallpaper 1",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-1.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-1-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 2",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-2.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-2-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 3",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-3.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-3-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 4",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-4.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-4-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 5",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-5.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-5-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 6",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-6.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-6-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 7",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-7.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-7-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 8",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-8.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-8-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 9",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-9.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-9-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 10",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-10.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-10-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 11",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-11.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-11-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 12",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-12.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-12-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 13",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-13.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-13-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 14",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-14.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-14-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 15",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-15.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-15-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 16",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-16.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-16-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 17",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-17.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-17-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 18",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-18.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-18-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 19",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-19.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-19-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 20",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-20.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-20-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 21",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-21.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-21-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 22",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-22.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-22-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 23",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-23.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-23-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 24",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-24.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-24-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 25",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-25.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-25-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 26",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-26.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-26-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 27",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-27.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-27-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 28",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-28.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-28-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 29",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-29.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-29-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 30",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-30.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-30-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 31",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-31.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-31-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 32",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-32.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-32-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 33",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-33.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-33-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 34",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-34.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-34-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 35",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-35.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-35-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 36",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-36.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-36-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 37",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-37.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-37-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 38",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-38.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-38-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 39",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-39.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-39-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 40",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-40.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-40-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 41",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-41.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-41-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 42",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-42.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-42-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 43",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-43.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-43-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 44",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-44.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-44-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 45",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-45.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-45-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 46",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-46.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-46-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 47",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-47.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-47-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 48",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-48.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-48-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 49",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-49.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-49-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 50",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-50.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-50-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 51",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-51.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-51-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 52",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-52.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-52-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 53",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-53.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-53-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 54",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-54.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-54-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 55",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-55.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-55-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 56",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-56.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-56-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 57",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-57.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-57-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 58",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-58.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-58-min.jpg"
-        },
-        {
-            "fileName": "Diwali Wallpaper 59",
-            "imageUrl": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/originals/Wallpaper-59.jpg",
-            "thumbnail": "https://parth-status-app.s3.ap-south-1.amazonaws.com/DiwaliStatus/wallpapers/thumbnails/Wallpaper-thumbnail-59-min.jpg"
-        }
-    ]
+    "wallpapers": []
 }
