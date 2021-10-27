@@ -169,5 +169,406 @@
             "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/videos/thumbnails/thumbnail+(31).jpg"
         }
     ],
-    "wallpapers": []
+    "wallpapers": [
+        {
+            "fileName": "diwali-status-wallpaper-1",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(1).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(1).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-2",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(2).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(2).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-3",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(3).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(3).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-4",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(4).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(4).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-5",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(5).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(5).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-6",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(6).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(6).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-7",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(7).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(7).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-8",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(8).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(8).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-9",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(9).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(9).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-10",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(10).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(10).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-11",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(11).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(11).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-12",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(12).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(12).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-13",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(13).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(13).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-14",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(14).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(14).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-15",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(15).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(15).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-16",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(16).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(16).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-17",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(17).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(17).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-18",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(18).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(18).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-19",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(19).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(19).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-20",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(20).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(20).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-21",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(21).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(21).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-22",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(22).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(22).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-23",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(23).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(23).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-24",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(24).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(24).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-25",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(25).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(25).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-26",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(26).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(26).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-27",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(27).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(27).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-28",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(28).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(28).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-29",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(29).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(29).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-30",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(30).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(30).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-31",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(31).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(31).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-32",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(32).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(32).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-33",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(33).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(33).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-34",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(34).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(34).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-35",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(35).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(35).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-36",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(36).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(36).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-37",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(37).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(37).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-38",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(38).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(38).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-39",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(39).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(39).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-40",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(40).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(40).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-41",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(41).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(41).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-42",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(42).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(42).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-43",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(43).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(43).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-44",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(44).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(44).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-45",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(45).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(45).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-46",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(46).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(46).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-47",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(47).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(47).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-48",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(48).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(48).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-49",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(49).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(49).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-50",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(50).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(50).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-51",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(51).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(51).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-52",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(52).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(52).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-53",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(53).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(53).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-54",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(54).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(54).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-55",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(55).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(55).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-56",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(56).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(56).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-57",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(57).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(57).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-58",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(58).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(58).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-59",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(59).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(59).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-60",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(60).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(60).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-61",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(61).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(61).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-62",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(62).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(62).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-63",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(63).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(63).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-64",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(64).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(64).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-65",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(65).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(65).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-66",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(66).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(66).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-67",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(67).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(67).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-68",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(68).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(68).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-69",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(69).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(69).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-70",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(70).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(70).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-71",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(71).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(71).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-72",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(72).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(72).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-73",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(73).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(73).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-74",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(74).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(74).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-75",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(75).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(75).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-76",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(76).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(76).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-77",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(77).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(77).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-78",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(78).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(78).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-79",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(79).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(79).jpg"
+        },
+        {
+            "fileName": "diwali-status-wallpaper-80",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/originals/original+(80).jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/diwaliapp/wallpapers/thumbnails/thumbnail+(80).jpg"
+        }
+    ]
 }
