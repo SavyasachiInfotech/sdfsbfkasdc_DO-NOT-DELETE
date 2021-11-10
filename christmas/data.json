@@ -1,0 +1,644 @@
+{
+    "homeData": {
+        "image": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/home-screen/image.jpg",
+        "appTitle": "Christmas Wishes & Statuses 2021",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.status.christmas",
+        "shareMessage": "Check this awesome app for Latest HD Christmas Wallpaper and Video Statuses.\n\nhttps://play.google.com/store/apps/details?id=com.status.christmas",
+        "moreApps": [
+            {
+                "title": "Track an order",
+                "url": "https://play.google.com/store/apps/details?id=com.trackanorder.trackanorder",
+                "appIcon": "https://play-lh.googleusercontent.com/Xb-N_EeQCxVE-vrWFnbkcVogViZuTzrrQYbH4lv_XB_ExvtFTrdEWzLk9hxOXt0uFB4=s180-rw"
+            },
+            {
+                "title": "Diwali Wishes and Statuses",
+                "url": "https://play.google.com/store/apps/details?id=com.status.diwali",
+                "appIcon": "https://play-lh.googleusercontent.com/IQ5BC4fe4i7756AdRkAEQYQ8DHXMsoPlQXx0djh9XU3ryyL0w6BT-F1d9DaH6zNbfVk=s180-rw"
+            }
+        ]
+    },
+    "statusVideos": [
+        {
+            "fileName": "christmas-video-1",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-1.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-1.jpg"
+        },
+        {
+            "fileName": "christmas-video-2",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-2.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-2.jpg"
+        },
+        {
+            "fileName": "christmas-video-3",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-3.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-3.jpg"
+        },
+        {
+            "fileName": "christmas-video-4",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-4.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-4.jpg"
+        },
+        {
+            "fileName": "christmas-video-5",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-5.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-5.jpg"
+        },
+        {
+            "fileName": "christmas-video-6",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-6.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-6.jpg"
+        },
+        {
+            "fileName": "christmas-video-7",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-7.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-7.jpg"
+        },
+        {
+            "fileName": "christmas-video-8",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-8.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-8.jpg"
+        },
+        {
+            "fileName": "christmas-video-9",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-9.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-9.jpg"
+        },
+        {
+            "fileName": "christmas-video-10",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-10.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-10.jpg"
+        },
+        {
+            "fileName": "christmas-video-11",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-11.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-11.jpg"
+        },
+        {
+            "fileName": "christmas-video-12",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-12.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-12.jpg"
+        },
+        {
+            "fileName": "christmas-video-13",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-13.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-13.jpg"
+        },
+        {
+            "fileName": "christmas-video-14",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-14.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-14.jpg"
+        },
+        {
+            "fileName": "christmas-video-15",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-15.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-15.jpg"
+        },
+        {
+            "fileName": "christmas-video-16",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-16.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-16.jpg"
+        },
+        {
+            "fileName": "christmas-video-17",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-17.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-17.jpg"
+        },
+        {
+            "fileName": "christmas-video-18",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-18.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-18.jpg"
+        },
+        {
+            "fileName": "christmas-video-19",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-19.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-19.jpg"
+        },
+        {
+            "fileName": "christmas-video-20",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-20.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-20.jpg"
+        },
+        {
+            "fileName": "christmas-video-21",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-21.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-21.jpg"
+        },
+        {
+            "fileName": "christmas-video-22",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-22.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-22.jpg"
+        },
+        {
+            "fileName": "christmas-video-23",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-23.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-23.jpg"
+        },
+        {
+            "fileName": "christmas-video-24",
+            "videoUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/originals/Video-24.mp4",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/videos/thumbnails/Video-thumb-24.jpg"
+        }
+    ],
+    "wallpapers": [
+        {
+            "fileName": "christmas-wallpaper-1",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-1.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-1.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-2",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-2.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-2.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-3",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-3.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-3.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-4",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-4.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-4.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-5",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-5.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-5.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-6",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-6.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-6.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-7",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-7.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-7.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-8",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-8.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-8.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-9",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-9.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-9.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-10",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-10.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-10.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-11",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-11.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-11.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-12",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-12.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-12.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-13",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-13.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-13.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-14",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-14.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-14.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-15",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-15.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-15.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-16",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-16.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-16.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-17",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-17.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-17.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-18",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-18.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-18.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-19",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-19.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-19.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-20",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-20.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-20.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-21",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-21.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-21.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-22",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-22.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-22.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-23",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-23.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-23.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-24",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-24.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-24.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-25",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-25.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-25.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-26",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-26.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-26.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-27",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-27.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-27.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-28",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-28.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-28.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-29",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-29.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-29.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-30",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-30.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-30.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-31",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-31.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-31.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-32",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-32.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-32.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-33",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-33.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-33.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-34",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-34.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-34.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-35",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-35.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-35.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-36",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-36.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-36.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-37",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-37.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-37.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-38",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-38.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-38.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-39",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-39.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-39.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-40",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-40.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-40.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-41",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-41.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-41.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-42",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-42.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-42.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-43",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-43.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-43.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-44",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-44.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-44.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-45",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-45.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-45.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-46",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-46.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-46.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-47",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-47.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-47.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-48",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-48.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-48.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-49",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-49.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-49.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-50",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-50.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-50.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-51",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-51.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-51.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-52",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-52.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-52.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-53",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-53.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-53.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-54",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-54.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-54.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-55",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-55.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-55.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-56",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-56.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-56.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-57",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-57.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-57.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-58",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-58.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-58.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-59",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-59.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-59.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-60",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-60.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-60.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-61",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-61.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-61.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-62",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-62.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-62.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-63",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-63.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-63.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-64",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-64.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-64.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-65",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-65.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-65.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-66",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-66.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-66.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-67",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-67.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-67.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-68",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-68.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-68.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-69",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-69.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-69.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-70",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-70.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-70.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-71",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-71.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-71.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-72",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-72.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-72.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-73",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-73.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-73.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-74",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-74.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-74.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-75",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-75.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-75.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-76",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-76.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-76.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-77",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-77.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-77.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-78",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-78.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-78.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-79",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-79.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-79.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-80",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-80.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-80.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-81",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-81.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-81.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-82",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-82.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-82.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-83",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-83.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-83.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-84",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-84.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-84.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-85",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-85.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-85.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-86",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-86.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-86.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-87",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-87.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-87.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-88",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-88.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-88.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-89",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-89.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-89.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-90",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-90.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-90.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-91",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-91.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-91.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-92",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-92.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-92.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-93",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-93.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-93.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-94",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-94.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-94.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-95",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-95.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-95.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-96",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-96.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-96.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-97",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-97.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-97.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-98",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-98.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-98.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-99",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-99.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-99.jpg"
+        },
+        {
+            "fileName": "christmas-wallpaper-100",
+            "imageUrl": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/originals/Image-100.jpg",
+            "thumbnail": "https://dynamic-status-apps.s3.ap-south-1.amazonaws.com/christmas/wallpapers/thumbnails/Image-thumb-100.jpg"
+        }
+    ]
+}
